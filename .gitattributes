@@ -1,0 +1,3 @@
+* text=auto !eol
+/ToolApplication.php -text
+/composer.json -text
