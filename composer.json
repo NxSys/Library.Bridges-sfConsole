@@ -29,14 +29,14 @@
             "email": "oss@nxsysts.com"
         }
     ],
-
-    "minimum-stability": "RC",
     "require":
     {
-        "PHP": "^7"
+        "PHP": "^7",
+        "symfony/console": "~2 || ~3"
     },
+    "minimum-stability": "RC",
     "autoload":
     {
-        "psr-4": { "NxSys\\Library\\Bridges\\sfConsole": "/" }
+        "psr-4": { "NxSys\\Library\\Bridges\\sfConsole\\": "/" }
     }
 }

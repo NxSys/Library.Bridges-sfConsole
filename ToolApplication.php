@@ -1,6 +1,6 @@
 <?php
 /**
- * $basename$
+ * $BaseName$
  * $Id$
  *
  * DESCRIPTION
